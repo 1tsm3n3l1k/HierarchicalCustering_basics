@@ -21,6 +21,6 @@ An unsupervised machine learning project that segments 200 retail mall customers
 
 ```bash
 git clone [https://github.com/YOUR-USERNAME/mall-customer-segmentation.git](https://github.com/YOUR-USERNAME/mall-customer-segmentation.git)
-cd mall-customer-segmentation
+cd HierarchicalClustering_basics
 pip install numpy pandas scikit-learn scipy matplotlib jupyter
 jupyter notebook h-clustering.ipynb
