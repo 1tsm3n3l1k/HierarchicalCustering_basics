@@ -1,0 +1,5 @@
+#Ignore Jupyter checkpoints files and Python cache
+.ipynb_check_points
+__pycache__/
+*.pyc
+
